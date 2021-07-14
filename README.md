@@ -1,5 +1,9 @@
 # Infotainment-System-Yocto
 
+![picture of display mounted on car](obd_display.jpg)
+(yes there are too many decimal places on the engine load, I've fixed this in the code)
+
+
 ## What is a car infotainment system?
 An in-vehicle infotainment system is a combination of systems that deliver entertainment and information to the driver and passengers. They use audio and video interfaces, touch screen displays, button panels, voice commands, and many other features. [check more!](https://github.com/VirgileDjimgou)
 
