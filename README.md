@@ -1,6 +1,3 @@
-# *THIS PROJECT HAS MOVED!*
-
-Please head over to [dash](https://github.com/openDsh/dash), part of the [openDsh](https://github.com/openDsh) org, for the latest and greatest of this project!
 
 ![](https://avatars2.githubusercontent.com/u/64765545?s=200&v=4)
 
@@ -18,17 +15,17 @@ Main features include:
 * theming (dark/light mode and accent color)
 * brightness (simulated)
 
-![home](https://github.com/rsjudka/intelligent-auto/blob/master/docs/imgs/home.png)
+![home](https://github.com/VirgileDjimgou/Car-System-InfoInfotainment-under-Linux-Yocto/blob/master/docs/imgs/home.png)
 
-![openauto_maps](https://github.com/rsjudka/intelligent-auto/blob/master/docs/imgs/openauto_maps.png)
+![openauto_maps](https://github.com/VirgileDjimgou/Car-System-InfoInfotainment-under-Linux-Yocto/blob/master/docs/imgs/openauto_maps.png)
 
-![openauto_spotify](https://github.com/rsjudka/intelligent-auto/blob/master/docs/imgs/openauto_spotify.png)
+![openauto_spotify](https://github.com/VirgileDjimgou/Car-System-InfoInfotainment-under-Linux-Yocto/blob/master/docs/imgs/openauto_spotify.png)
 
-![media](https://github.com/rsjudka/intelligent-auto/blob/master/docs/imgs/media.png)
+![media](https://github.com/VirgileDjimgou/Car-System-InfoInfotainment-under-Linux-Yocto/blob/master/docs/imgs/media.png)
 
-![data](https://github.com/rsjudka/intelligent-auto/blob/master/docs/imgs/data.png)
+![data](https://github.com/VirgileDjimgou/Car-System-InfoInfotainment-under-Linux-Yocto/blob/master/docs/imgs/data.png)
 
-![settings](https://github.com/rsjudka/intelligent-auto/blob/master/docs/imgs/settings.png)
+![settings](https://github.com/VirgileDjimgou/Car-System-InfoInfotainment-under-Linux-Yocto/blob/master/docs/imgs/settings.png)
 
 ## Getting Started
 
