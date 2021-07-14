@@ -1,7 +1,7 @@
 # Infotainment-System-Yocto
 
 ## What is a car infotainment system?
-An in-vehicle infotainment system is a combination of systems that deliver entertainment and information to the driver and passengers. They use audio and video interfaces, touch screen displays, button panels, voice commands, and many other features. [check more!](https://concisesoftware.com/car-infotainment-system-guide/)
+An in-vehicle infotainment system is a combination of systems that deliver entertainment and information to the driver and passengers. They use audio and video interfaces, touch screen displays, button panels, voice commands, and many other features. [check more!](https://github.com/VirgileDjimgou)
 
 <p align="center">
   <img width="700" height="346" src="../media/info-sys-demo.jpg">
