@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/mainIcons">
+        <file>media/settings_icon.png</file>
+        <file>media/music_icon.png</file>
+        <file>media/home_icon.png</file>
+        <file>media/gps_icon.png</file>
+        <file>media/calls_icon.png</file>
+        <file>media/bluetooth_icon.png</file>
+        <file>media/video_icon.png</file>
+    </qresource>
+    <qresource prefix="/musicControl">
+        <file>media/stop_icon.png</file>
+        <file>media/play_icon.png</file>
+        <file>media/pause_icon.png</file>
+        <file>media/forward_icon.png</file>
+        <file>media/backward_icon.png</file>
+        <file>media/shuffle_icon.png</file>
+        <file>media/repeat_icon.png</file>
+        <file>media/repeatOnce_icon.png</file>
+        <file>media/shufflePressed_icon.png</file>
+        <file>media/repeatPressed_icon.png</file>
+        <file>media/volumeUp_icon.png</file>
+        <file>media/volumeDown_icon.png</file>
+    </qresource>
+    <qresource prefix="/settingsIcons">
+        <file>media/darkThemeOff_icon.png</file>
+        <file>media/darkThemeOn_icon.png</file>
+        <file>media/cancel_icon.png</file>
+        <file>media/done_icon.png</file>
+    </qresource>
+    <qresource prefix="/bluetoothControl">
+        <file>media/bluetoothRunning_icon.png</file>
+        <file>media/bluetoothMain.png</file>
+    </qresource>
+    <qresource prefix="/videoIcons">
+        <file>media/mp4_icon.png</file>
+        <file>media/back_icon.png</file>
+    </qresource>
+</RCC>
